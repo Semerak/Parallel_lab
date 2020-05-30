@@ -1,0 +1,8 @@
+﻿  BMPrw.cpp
+C:\Users\danse\source\repos\BMPrw\BMPrw\BMP.cpp(223,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danse\source\repos\BMPrw\BMPrw\BMP.cpp(228,44): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\danse\source\repos\BMPrw\BMPrw\BMP.cpp(243,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danse\source\repos\BMPrw\BMPrw\BMP.cpp(248,40): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\danse\source\repos\BMPrw\BMPrw\BMP.cpp(249,40): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\danse\source\repos\BMPrw\BMPrw\BMP.cpp(250,40): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+  BMPrw.vcxproj -> C:\Users\danse\source\repos\BMPrw\Debug\BMPrw.exe

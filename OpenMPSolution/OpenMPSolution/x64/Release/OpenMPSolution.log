@@ -1,0 +1,14 @@
+﻿  OpenMPSolution.cpp
+C:\Users\danse\Desktop\Prog\3 year\Paralel\Labs\OpenMPSolution\OpenMPSolution\BMP.cpp(102,1): warning C4267: '+=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\danse\Desktop\Prog\3 year\Paralel\Labs\OpenMPSolution\OpenMPSolution\BMP.cpp(113,1): warning C4267: '+=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\danse\Desktop\Prog\3 year\Paralel\Labs\OpenMPSolution\OpenMPSolution\BMP.cpp(136,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\danse\Desktop\Prog\3 year\Paralel\Labs\OpenMPSolution\OpenMPSolution\BMP.cpp(148,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\danse\Desktop\Prog\3 year\Paralel\Labs\OpenMPSolution\OpenMPSolution\BMP.cpp(233,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danse\Desktop\Prog\3 year\Paralel\Labs\OpenMPSolution\OpenMPSolution\BMP.cpp(234,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danse\Desktop\Prog\3 year\Paralel\Labs\OpenMPSolution\OpenMPSolution\BMP.cpp(239,48): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+  Generating code
+  2 of 249 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenMPSolution.vcxproj -> C:\Users\danse\Desktop\Prog\3 year\Paralel\Labs\OpenMPSolution\x64\Release\OpenMPSolution.exe

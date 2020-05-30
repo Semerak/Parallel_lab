@@ -1,0 +1,9 @@
+﻿MPISolution.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Send в функции _main
+MPISolution.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Recv в функции _main
+MPISolution.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_size в функции _main
+MPISolution.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_rank в функции _main
+MPISolution.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Get_processor_name в функции _main
+MPISolution.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Init в функции _main
+MPISolution.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Finalize в функции _main
+C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020.1.216\windows\mpi\intel64\lib\debug\impi.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\myros\source\repos\MPISolution\Debug\MPISolution.exe : fatal error LNK1120: неразрешенных внешних элементов: 7

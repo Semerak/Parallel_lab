@@ -1,0 +1,5 @@
+﻿  OpenMPSolution.cpp
+D:\univ\3 grade\paralel_lab\OpenMPSolution\OpenMPSolution\OpenMPSolution.cpp(13,38): warning C4244: инициализация: преобразование "double" в "unsigned __int64", возможна потеря данных
+D:\univ\3 grade\paralel_lab\OpenMPSolution\OpenMPSolution\OpenMPSolution.cpp(28,15): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+D:\univ\3 grade\paralel_lab\OpenMPSolution\OpenMPSolution\OpenMPSolution.cpp(41,22): warning C4018: <: несоответствие типов со знаком и без знака
+  OpenMPSolution.vcxproj -> D:\univ\3 grade\paralel_lab\OpenMPSolution\Debug\OpenMPSolution.exe
